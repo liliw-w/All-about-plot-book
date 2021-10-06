@@ -1,13 +1,15 @@
-Welcome! 
+## ggplot2 code snippets
 
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
+A place where I keep record of code snippets for ggplot2 figures that I frequently used. (And also as an opportunity to get familiar with bookdown.)
 
-This template provides a skeleton file structure that you can edit to create your book. 
+### Website
 
-The contents inside the .Rmd files provide some pointers to help you get started, but feel free to also delete the content in each file and start fresh.
+https://liliw-w.github.io/All-about-plot-book/
 
-Additional resources:
+### bookdown resources
 
-The **bookdown** book: https://bookdown.org/yihui/bookdown/
+> Book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
 
-The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
+> The **bookdown** book: https://bookdown.org/yihui/bookdown/
+
+> The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
